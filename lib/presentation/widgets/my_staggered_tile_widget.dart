@@ -1,6 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import '../models/note.dart';
+import 'package:notes_app_techcarrel/models/note.dart';
 import 'dart:math' as math;
 
 import 'package:timeago/timeago.dart' as timeago;

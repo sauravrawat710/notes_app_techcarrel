@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:notes_app_techcarrel/presentation/widgets/my_staggered_tile_widget.dart';
 import '../../models/note.dart';
-import '../../providers/my_staggered_tile_widget.dart';
 import '../../providers/note_provider.dart';
 import 'package:provider/provider.dart';
 
